@@ -15,7 +15,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.sun.xml.bind.v2.runtime.reflect.Accessor.GetterOnlyReflection;
+
 
 @Entity
 @Table(name = "tb_product")
