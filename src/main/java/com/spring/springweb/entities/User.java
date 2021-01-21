@@ -59,11 +59,11 @@ public class User implements Serializable {
 		this.name = name;
 	}
 
-	public String getEmial() {
+	public String getEmail() {
 		return email;
 	}
 
-	public void setEmial(String email) {
+	public void setEmail(String email) {
 		this.email = email;
 	}
 
